@@ -1,0 +1,89 @@
+nav {
+	webkit-locale:"en-US";
+	unicode-bidi: isolate;
+}
+
+article, aside, footer, header, hgroup, main, nav, section {
+
+}
+
+body, input, textarea, select, button {
+
+}
+
+#ac-globalnav {
+	position: absolute;
+	top:0;
+	right: 0;
+	left:0;
+	z-index:9999;
+	display:block;
+	margin:0;
+	width: 100%;
+	min-width:1024px;
+	height: 48px;
+	max-height: 44px;
+	background: rgba(0,0,0,0.8);
+	user-select:none;
+}
+
+#ac-globalnav, #ac-globalnav:before, #ac-globalnav:after,
+ #ac-globalnav *, #ac-globalnav *:before, #ac-globalnav *:after,
+ #ac-gn-segmentbar, #ac-gn-segmentbar:before, #ac-gn-segmentbar:after,
+ #ac-gn-segmentbar *, #ac-gn-segmentbar *:before, #ac-gn-segmentbar *:after {
+ 	box-sizing:content-box;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+nav ul, nav ol {
+	margin:0;
+	list-style:none;
+}
+
+ul,menu,dir {
+	display:block;
+	webkit-margin-before:1em;
+	webkit-margin-after:1em;
+	webkit-margin-start:0px
+	webkit-margin-end:0px;
+	webkit-padding-start: 40px;
+}
+
+li {
+	display: list-item;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
